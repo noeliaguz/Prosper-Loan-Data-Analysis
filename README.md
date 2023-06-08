@@ -3,7 +3,6 @@
 The goal for this project was to use various Python libraries (pandas, seaborn, matplotlib, etc.) to perform exploratory and explanatory data analysis on loan data from Prosper.
   
 ## Part I - Exploratory Analysis  
-*Provided by Udacity*  
 Python data science and data visualization libraries were used to explore the selected dataset’s variables and understand the data’s structure, oddities, patterns, and relationships. The analysis in this part is structured, going from simple univariate relationships to multivariate relationships. 
 
 ### Project Data
